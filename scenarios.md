@@ -5,6 +5,7 @@
 - 004: Crypt of the Damned (E-11)
 - 005: Ruinous Crypt (D-6)
 - 006: Decaying Crypt (F-18)
+- 007: Vibrant Grotto (C-12)
 - 008: Gloomhaven Warehouse (C-18)
 - 009: Diamond Mine (L-2)
 - 013: Temple of the Seer (N-3)
@@ -23,6 +24,7 @@
 - 035: Gloomhaven Battlements (A-14)
 - 036: Gloomhaven Battlements (B-14)
 - 038: Slave Pens (G-2)
+- 043: Drake Nest (D-4)
 - 057: Investigation (D-14)
 - 058: Bloody Shack (E-15)
 - 061: Fading Lighthouse (N-11)
@@ -39,7 +41,6 @@
 - 039: Treacherous Divide (B-11)
 - 040: Ancient Defense Network (F-12)
 - 042: Realm of the Voice (C-5)
-- 043: Drake Nest (D-4)
 - 044: Tribal Assault (F-3)
 - 048: Shadow Weald (E-1)
 - 063: Magma Pit (M-1)
@@ -54,7 +55,6 @@
 - 094: Vermling Nest (F-12)
 
 ### UNDISCOVERED
-- 007: Vibrant Grotto (C-12)
 - 010: Plane of Elemental Power (C-7)
 - 011: Gloomhaven Square A (B-16)
 - 012: Gloomhaven Square B (B-16)
