@@ -30,6 +30,7 @@
 - 061: Fading Lighthouse (N-11)
 - 062: Pit of Souls (O-11)
 - 068: Toxic Moor (N-8)
+- 083: Shadows Within (C-15)
 
 ### DISCOVERED
 - 024: Echo Chamber (C-6)
@@ -42,6 +43,7 @@
 - 040: Ancient Defense Network (F-12)
 - 042: Realm of the Voice (C-5)
 - 044: Tribal Assault (F-3)
+- 047: Lair of the Unseeing Eye (H-18)
 - 048: Shadow Weald (E-1)
 - 063: Magma Pit (M-1)
 - 064: Underwater Lagoon (K-16)
@@ -50,8 +52,8 @@
 - 070: Chained Isle (J-17)
 - 081: Temple of the Eclipse (D-2)
 - 082: Burning Mountain (M-6)
-- 083: Shadows Within (C-15)
 - 091: Wild Melee (E-2)
+- 093: Sunken Vessel (N-17)
 - 094: Vermling Nest (F-12)
 
 ### UNDISCOVERED
@@ -65,7 +67,6 @@
 - 041: Timeworn Tomb (F-13)
 - 045: Rebel Swamp (M-9)
 - 046: Nightmare Peak (A-11)
-- 047: Lair of the Unseeing Eye (H-18)
 - 049: Rebel's Stand (N-7)
 - 050: Ghost Fortress (C-17)
 - 051: The Void (A-15)
@@ -96,7 +97,6 @@
 - 089: Syndicate Hideout (C-17)
 - 090: Demonic Rift (J-7)
 - 092: Back Alley Brawl (C-14)
-- 093: Sunken Vessel (N-17)
 - 095: Payment Due (G-12)
 - 096: Unexpected Visitors (B-13)
 - 097: Lore Untold (A-17)
